@@ -19,4 +19,4 @@ Progetto di "Algoritmi e Strutture Dati" del corso "PROVA FINALE (PROGETTO DI AL
 ### Valutazione
 La correttezza e l'efficienza della soluzione proposta sono valutate con batterie di test automatizzate. Il sistema di verifica calcola il tempo macchina e la memoria utilizzati.
 
-Ulteriori dettagli ed esempi sono forniti `Consegna.pdf`.
+Ulteriori dettagli ed esempi sono forniti [qui](Consegna.pdf).
